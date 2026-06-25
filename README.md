@@ -6,6 +6,12 @@
 ### About
 It's an NFC device that is use to configure NFC tags for various use . This is mainly for those who does not have an phone which accept NFC but you want to configure the NFC the you can use this to configure the NFC and use it
 
+### Why I chose this project?
+Since previously, I have made one business card using an NFC tag and I do not have any phone which accept NFC tag so I could not configure the thing, so I started thinking what can I do because I need to configure the NFC tag so that I can use the business card and give it to someone and they can also feel it. So then I thought what if I can make my own NFC card, reader and writer such that I can then configure it easily. So for that reason I was making this project since I need it
+
+
+### How to use this project
+This project or the overall project can be used in reading and writing, or we can say configuring the NFC tags to their designated things like if we want to configure it such that when the NFC tag is read, then it will open and website or open any social media account, so we can configure that through this device.
 ### Wiring Diagram
 
 <img width="780" height="419" alt="wiring Diagram" src="https://github.com/user-attachments/assets/68e0b074-404f-4c9b-853b-ed755d6ba251" />
