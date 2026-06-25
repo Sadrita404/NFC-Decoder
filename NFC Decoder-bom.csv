@@ -1,0 +1,7 @@
+Name,Purpose,Quantity,Total Cost (USD),Link,Distributor
+"3d Printing","The Case",1,0.00,"https://printlegion.hackclub.com/","#printing-legion"
+" ON-OFF Round Rocker Switch","To turn ON and OFF the circuit",1,0.26,"https://robu.in/product/3a-250v-ac-spst-on-off-round-rocker-switch/","robu"
+"0.96 Inch Display ","To show the status of the tags",1,2.33,"https://robu.in/product/0-96-inch-i2c-iic-oled-lcd-module-4pin-with-vcc-gnd-white/?gad_source=1&gad_campaignid=17416544847&gbraid=0AAAAADvLFWeV6_fecEXW7yD2KwMGyNReC&gclid=CjwKCAjwgO7RBhBKEiwAZNP85pMhbqMl-v5m1zvKEvrUq9B0d-LvNmgelreYeh2LO49TPiD8CQqj2hoCI5cQAvD_BwE","robu"
+"125KHz RFID Key Tags ","To use the tags",1,0.78,"https://robu.in/product/125k-rfid-tag/","robu"
+"PN532 NFC RFID Reader Writer Module","To read and write the NFC tag",1,2.96,"https://robu.in/product/pn532-nfc-rfid-read-write-module-v3-kit/?gad_source=1&gad_campaignid=17416544847&gbraid=0AAAAADvLFWeV6_fecEXW7yD2KwMGyNReC&gclid=CjwKCAjwgO7RBhBKEiwAZNP85rSwp_ngtcO8Bjd_ONtm39mhj41ojcR920rApEHez6F2z-NC-cA8pRoChhUQAvD_BwE","robu"
+"Arduino Uno","The Main Board",1,2.60,"https://robu.in/product/uno-r3-ch340g-atmega328p-development-board-with-micro-usb/?gad_source=1&gad_campaignid=17413441824&gbraid=0AAAAADvLFWdfI1XB-KkKXV0RB4QUU0TIl&gclid=CjwKCAjwgO7RBhBKEiwAZNP85jI5Gq2if25G8qQpSHFhbCwcJ_pwk3JFtFhn1uoxxevPr2fZOn2WABoCKIoQAvD_BwE","robu"
